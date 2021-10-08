@@ -1,0 +1,47 @@
+{
+	"id": "A1344737-0A28-EC11-AE72-0050F278FF8E",
+	"createdAt": "2021-10-08T07:34:49.393Z",
+	"createdBy": "admin",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/ellacenz/Testing.git",
+		"testServers": []
+	},
+	"name": "TestingCI/CD",
+	"description": null,
+	"ver": "21.10.8.1146",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [
+		{
+			"id": "9AEF6A0B-1826-EC11-AE72-0050F278FF8E",
+			"name": "sample_adaptive",
+			"description": "",
+			"ver": "21.10.8.1121",
+			"application": "planet9_adaptive_list"
+		}
+	],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}

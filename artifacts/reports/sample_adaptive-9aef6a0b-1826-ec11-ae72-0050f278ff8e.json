@@ -1,0 +1,135 @@
+{
+	"id": "9aef6a0b-1826-ec11-ae72-0050f278ff8e",
+	"createdAt": "2021-10-05T20:08:46.430Z",
+	"createdBy": "admin",
+	"settings": {
+		"properties": {
+			"report": {
+				"showIcon": true,
+				"iconButtonClose": "",
+				"textButtonClose": "Close",
+				"typeButtonClose": "Transparent",
+				"iconButtonCreate": "",
+				"textButtonCreate": "Create",
+				"typeButtonCreate": "Emphasized",
+				"iconButtonExport": "sap-icon://excel-attachment",
+				"textButtonExport": "",
+				"typeButtonExport": "Transparent",
+				"iconButtonImport": "sap-icon://fa-solid/file-import",
+				"textButtonImport": "",
+				"typeButtonImport": "Transparent",
+				"iconButtonMultiSelect": "",
+				"textButtonMultiSelect": "MultiSelect",
+				"typeButtonMultiSelect": "Emphasized",
+				"iconButtonRun": "",
+				"textButtonRun": "Update",
+				"typeButtonRun": "Emphasized",
+				"enableRun": true,
+				"enableCreate": false,
+				"enableClose": false,
+				"enableDelete": false,
+				"enableExport": false,
+				"enableImport": false,
+				"enableMultiSelect": false,
+				"enableVariant": false,
+				"hideHeader": false,
+				"autoRun": false,
+				"autoRunFocus": false,
+				"searchLabel": "Search",
+				"searchPlaceholder": "",
+				"title": "Test",
+				"subTitle": "Sub-Title"
+			},
+			"form": {
+				"enableCompact": false,
+				"headerExpanded": true
+			},
+			"table": {
+				"enablePagination": false,
+				"paginationShowSelection": false,
+				"paginationRows": 25,
+				"action1Text": "",
+				"action1Type": "Transparent",
+				"action2Text": "",
+				"action2Type": "Transparent",
+				"action3Text": "",
+				"action3Type": "Transparent",
+				"alternateRowColors": false,
+				"enableCompact": false,
+				"enableAction1": false,
+				"enableAction2": false,
+				"enableAction3": false,
+				"fixedLayout": false,
+				"inset": false
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text"
+			},
+			{
+				"name": "name",
+				"label": "name",
+				"type": "text"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text"
+			}
+		],
+		"fieldsSel": [],
+		"fieldsRun": [
+			{
+				"enableFilter": true,
+				"enableSort": false,
+				"visible": true,
+				"name": "name",
+				"text": "Name",
+				"fieldPos": 1,
+				"valueType": "Rule",
+				"valueRule": "D9CBD33D-8026-EC11-AE72-0050F278FF8E",
+				"formatter": "uppercase"
+			}
+		],
+		"defaultVariant": {
+			"id": "ef050f30-063d-4654-a296-a50ef39d9ba6",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "sample_adaptive",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "316110e8-1726-ec11-ae72-0050f278ff8e",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "21.10.8.1121",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_list",
+	"package": "a1344737-0a28-ec11-ae72-0050f278ff8e",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}
