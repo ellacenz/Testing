@@ -3,13 +3,19 @@
 	"createdAt": "2021-10-08T07:34:49.393Z",
 	"createdBy": "admin",
 	"git": {
-		"targetServers": [],
+		"targetServers": [
+			{
+				"url": "https://dxpdemo-fresh.neptune-software.cloud/",
+				"token": ""
+			}
+		],
 		"remote": "https://github.com/ellacenz/Testing.git",
-		"testServers": []
+		"testServers": [],
+		"readme": "Read me. Thanks for checking"
 	},
-	"name": "TestingCI/CD",
+	"name": "TestingCICD",
 	"description": null,
-	"ver": "21.10.8.1146",
+	"ver": "21.10.8.1348",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
