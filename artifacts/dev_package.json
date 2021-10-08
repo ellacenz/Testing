@@ -11,11 +11,12 @@
 		],
 		"remote": "https://github.com/ellacenz/Testing.git",
 		"testServers": [],
-		"readme": "Read me. Thanks for checking"
+		"readme": "Read me. Thanks for checking",
+		"branch": "updatedName"
 	},
 	"name": "TestingCICD",
 	"description": null,
-	"ver": "21.10.8.1348",
+	"ver": "21.10.8.1352",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
